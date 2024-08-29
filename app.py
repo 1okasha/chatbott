@@ -1,7 +1,4 @@
 
-#LANGCHAIN_API_KEY"=" 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"
-#GROQ_API_KEY"="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"
-#langchain_project="chatbot"
 
 
 from langchain_groq import ChatGroq #TO INTERACT BW LLM OF OPENAI 
